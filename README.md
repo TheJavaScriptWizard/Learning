@@ -11,3 +11,5 @@ This is just some text. Notice how whitepace is used.
 
 1. this is a numbered list
 1. this is the 2nd item in the numbered list
+
+This is a new paragraph.
