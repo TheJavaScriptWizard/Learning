@@ -7,6 +7,7 @@ This is just some text. Notice how whitepace is used.
 
 * this is a bullet list
 * this is the 2nd item in the list
+* this a 3rd bullet
 
 1. this is a numbered list
 1. this is the 2nd item in the numbered list
